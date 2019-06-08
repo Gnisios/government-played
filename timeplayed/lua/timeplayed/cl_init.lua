@@ -1,0 +1,3 @@
+print ("Côté client chargé")
+
+
